@@ -1,1 +1,8 @@
-fdftdgd
+@font-face {
+  font-family: 'Roboto Condensed';
+  src: url('../fonts/RobotoCondensed-Light.woff') format('woff');
+  src: url('../fonts/RobotoCondensed-Light.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
